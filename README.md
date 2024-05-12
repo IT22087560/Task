@@ -9,7 +9,7 @@ A simple efficient solution for users to create, edit, delete **tasks** to Manag
 ## 📱 Screenshots
 
 <div style="display:inline; align:center;">
-    <img src="/photos/home.png" alt="Main Screen Dark" height="420px">
+    <img src="C:/Users/ASUS/Desktop/Screenshots" alt="Main Screen Dark" height="420px">
     
 </div>
 
