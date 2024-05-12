@@ -3,7 +3,7 @@
 </h1>
 
 
-A simple efficient solution for users to create, edit, delete **tasks** to Manage their Daily Tasks
+An uncomplicated and effective solution enabling users to manage their daily tasks by creating, editing, and deleting tasks effortlessly.
 
 ## 🔗 Resources
 
